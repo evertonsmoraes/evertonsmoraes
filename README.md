@@ -5,11 +5,9 @@ Graduado em Administração de Empresas pela UMC, pós graduado MBA Internaciona
 
 Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados, mensuração da performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam sempre incremento de performance.
 
-Atuação ativa em interface com diversas áreas como TI, Analytics, Governança, LGPD, CX, BU`s e Área Comercial.
-
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/evertondasilvamoraes/)
+[![DIO](https://img.shields.io/badge/-💻%20DIO-000000?style=for-the-badge)](https://web.dio.me/users/evertondasilvamoraes/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evertondasilvamoraes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/evertonsmoraes/)
 
