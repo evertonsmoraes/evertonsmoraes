@@ -1,23 +1,30 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=evertonsmoraes.evertonsmoraes">
 
 # Everton Moraes
+[![DIO](https://img.shields.io/badge/-💻%20DIO-7f28b5?style=flat-square)](https://web.dio.me/users/evertondasilvamoraes/)
+[![E-mail](https://img.shields.io/badge/-📧%20Email-535D6C?style=flat-square&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evertondasilvamoraes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evertonsmoraes/)
 
-Graduado em Administração de Empresas pela UMC, pós graduado MBA Internacional em Gestão Empresarial na Fundação Getúlio Vargas – FGV com atuação em estratégias e projetos relativos à CRM, Canais de Marketing Direto e de Relacionamento, Big Data, Gestão do Ciclo de Vida dos Clientes,
+<div style="font-size: 70%">
+  
+✅ <b>Graduado em Administração de Empresas</b> | UMC - Universidade Mogi das Cruzes)</br>
+✅ <b>MBA Internacional em Gestão Empresarial</b> |  FGV - Fundação Getúlio Vargas </br>
+⏳ <b>MBA em Data Science e Analytics</b> | USP - Universidade de São Paulo </br>
 
+</div>
+<hr>
 Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados, mensuração da performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam sempre incremento de performance.
 
-### Conecte-se comigo
 
-[![DIO](https://img.shields.io/badge/-💻%20DIO-000000?style=for-the-badge)](https://web.dio.me/users/evertondasilvamoraes/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evertondasilvamoraes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/evertonsmoraes/)
 
 ### Habilidades
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-[![BIGQUERY](https://img.shields.io/badge/BIG%20QUERY-000?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)](https://console.cloud.google.com/bigquery)
-[![LOOKER](https://img.shields.io/badge/LOOKER-000?style=for-the-badge&logo=looker&logoColor=4285F4)](https://lookerstudio.google.com/)
-[![POWERBI](https://img.shields.io/badge/POWER%20BI-000?style=for-the-badge&logo=powerbi&logoColor=#F2C811)](https://www.microsoft.com/pt-br/power-platform/products/power-bi/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)](#)
+[![PYTHON](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)](#)
+[![BIGQUERY](https://img.shields.io/badge/Big%20Query-000?style=flat-square&logo=googlebigquery&logoColor=669DF6)](#)
+[![LOOKER](https://img.shields.io/badge/Looker-000?style=flat-square&logo=looker&logoColor=4285F4)](#)
+[![POWERBI](https://img.shields.io/badge/Power%20Bi-000?style=flat-square&logo=powerbi&logoColor=F2C811)](#)
+[![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=E94D5F)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=30A3DC)](#)
 
 ### GitHub Stats
 
