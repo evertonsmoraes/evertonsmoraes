@@ -20,6 +20,7 @@ Experiência consolidada em concepcão de projetos e modelagens, implantação d
 [![POWERBI](https://img.shields.io/badge/Power%20Bi-151515?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB40lEQVR4nO2ZzU7CQBCA96QHBWaLYtREX8mEaNRX0Ph4Jv6cFDpDQsSDBxP14hVDulNI7AmzFCIhtKWhwJbsl/S0C5mvs7O7mQphsVgsFhPo34pNhXDDBMQIXSbZX/mDOg4gj+C6/yY2EiV6rnOoUL6uPHCKfhTKlo4zIROhhEL4ZnSq7Vq5IAygXSsXmEonjPA+iI/kS2RmwuUUSnhu0REG4j2X5OAlk+z7BFdTJzFBI1yPTlUYjN9wTod1g1MnMIGvJ5iynKL4IacY1gvw1AmjYhI5gONitSIZ0anDsUL5qM8MRfDQacqjXGZkIEHjZwbc51UkmDj4glyKTDvFRcLc9INLwIpknZE0u47RGVEpdh3TRYJZdx2jRThFILkW6STUUG5EVEIN5UkkiKuh3IjwnOPjWJEsitWYjKg5i9UkkWCeYl2eCA67ik/bu3E/XlSgs4r49a1KQvMhbAf5rjwzWgTleWw7aNSgY5If2tpEER8re0zyU4/pPnBiy1RP9khemCTiNeQlo/wa1mdLxyui6NXKB+NNbJNE+H+TaXWbO/siCW2q08YIrlEiCK7u9870WSGOVYtkxtqIqMkDkeTvMsczQ9+v4q4oix7PDH1p1H8++PyAcDd5aVz0uMVisawXf7uwA1vGBpV0AAAAAElFTkSuQmCC&logoColor=F2C811)](#)
 [![Git](https://img.shields.io/badge/Git-151515?style=flat&logo=git&logoColor=E94D5F)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-151515?style=flat&logo=github&logoColor=30A3DC)](#)
+</br><a href="https://shields.io/" target="_blank"><img alt="Obtenha as Badges" src="https://img.shields.io/badge/Obtenha%20as%20Badges-535D6C?style=flat&logo=shieldsdotio&logoColor=FFFF" /></a>
 </br>[![Obtenha as Badges](https://img.shields.io/badge/Obtenha%20as%20Badges-535D6C?style=flat&logo=shieldsdotio&logoColor=FFFF)](https://shields.io/)
 
 ### GitHub Stats
