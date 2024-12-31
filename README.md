@@ -10,7 +10,7 @@
 ⏳ <b>MBA em Data Science e Analytics</b> | USP - Universidade de São Paulo </br>
 
 </br>
-Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados, mensuração da performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam sempre incremento de performance.
+Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados e mensuração de performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam incremento de resultados.
 
 </br>
 </br>
