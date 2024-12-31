@@ -32,3 +32,6 @@ Experiência consolidada em concepcão de projetos e modelagens, implantação d
 </br>[![GitHub Streak](https://streak-stats.demolab.com?user=evertonsmoraes&theme=dark&hide_border=true)](#)
 </br>[![🔥 Obtenha GitHub Streak do seu perfil](https://img.shields.io/badge/🔥%20Obtenha%20GitHub%20Streak%20do%20seu%20perfil-535D6C?style=flat)](https://git.io/streak-stats)
 
+
+</br>[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=evertonsmoraes&theme=darkhub&bg=151515&no-frame=true&rank=-?)](#)
+</br>[![🔥 Obtenha GitHub Trophy do seu perfil](https://img.shields.io/badge/🔥%20Obtenha%20GitHub%20Trophy%20do%20seu%20perfil-535D6C?style=flat)]([https://git.io/streak-stats](https://github.com/ryo-ma/github-profile-trophy))
