@@ -4,14 +4,11 @@
 [![DIO](https://img.shields.io/badge/-💻%20DIO-7f28b5?style=flat)](https://web.dio.me/users/evertondasilvamoraes/)
 [![E-mail](https://img.shields.io/badge/-📧%20Email-535D6C?style=flat&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evertondasilvamoraes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4UlEQVR4nO2WPQ4BQRiGZ4XOT6HRuYBGRUUlscEt9K6hcg4H0OmIqNxAtSuiFIWIsI9sMpLJNDbMrL99ki2+93s3T2aaXSES/g6gA2wwhw+4UcRh0TReFLEVxBPiPTAHjnGKD0BZ5lXgEpd4qe28uMQnoCbzHhDEJQ65AlteRDwhHspnJOedkk2ANTAAukAfWJgSOzLPynmldOtAQXs/BUytiu8ARW1u2T6xA8xkPlbykm1xRemdgbTMM7bFDa2bU3aBTXFT6+YT8VdetRHEJ4v9d/36uIbl4Te8/VCc8HPcAEWeg13wQBOQAAAAAElFTkSuQmCC&logoColor=white)](https://linkedin.com/in/evertonsmoraes/)
-
-<div style="font-size: 70%">
   
 ✅ <b>Graduado em Administração de Empresas</b> | UMC - Universidade Mogi das Cruzes)</br>
 ✅ <b>MBA Internacional em Gestão Empresarial</b> |  FGV - Fundação Getúlio Vargas </br>
 ⏳ <b>MBA em Data Science e Analytics</b> | USP - Universidade de São Paulo </br>
 
-</div>
 <hr>
 Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados, mensuração da performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam sempre incremento de performance.
 
