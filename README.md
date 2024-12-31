@@ -27,7 +27,7 @@ Experiência consolidada em concepcão de projetos e modelagens, implantação d
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonsmoraes&theme=transparent&bg_color=151515&hide_border=true&show_icons=true&icon_color=FB8C00&title_color=30A3DC&text_color=FFFFFF&locale=en&card_width=495)](#)
 </br>[![🔥 Obtenha GitHub Status do seu perfil](https://img.shields.io/badge/🔥%20Obtenha%20GitHub%20Status%20do%20seu%20perfil-535D6C?style=flat)](https://github.com/anuraghazra/github-readme-stats/tree/master)
 
-</br>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evertonsmoraes&layout=compact&bg_color=151515&hide_border=true&title_color=30A3DC&text_color=FFFFFF&locale=en&card_width=495)](#)
+</br>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evertonsmoraes&layout=compact&bg_color=151515&hide_border=true&title_color=30A3DC&text_color=FFFFFF&card_width=495)](#)
 </br>[![🔥 Obtenha GitHub Top Langs do seu perfil](https://img.shields.io/badge/🔥%20Obtenha%20GitHub%20Top%20Langs%20do%20seu%20perfil-535D6C?style=flat)](https://github.com/anuraghazra/github-readme-stats/tree/master)
 
 </br>[![GitHub Streak](https://streak-stats.demolab.com?user=evertonsmoraes&theme=dark&hide_border=true)](#)
