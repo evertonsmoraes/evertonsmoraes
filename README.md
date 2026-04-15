@@ -9,7 +9,11 @@
 ✅ <b>MBA Internacional em Gestão Empresarial</b> |  FGV - Fundação Getúlio Vargas </br>
 ⏳ <b>MBA em Data Science e Analytics</b> | USP - Universidade de São Paulo </br>
 </br>
-Experiência consolidada em concepcão de projetos e modelagens, implantação de projetos, gestão de dados e mensuração de performance pertinentes a CRM/DBM, adotando ferramentas e métodos que objetivam o incremento de resultados.
+Graduado em Administração de Empresas pela UMC, com MBA Internacional em Gestão Empresarial pela Fundação Getúlio Vargas (FGV) e atualmente cursando MBA em Data Science e Analytics pela USP/ESALQ.
+
+Atuo há mais de 10 anos em estratégias e projetos voltados a CRM, DBM, canais de marketing direto e de relacionamento, Big Data e gestão do ciclo de vida do cliente. Tenho sólida experiência na concepção e implantação de projetos, modelagem de processos, gestão de dados e mensuração de performance, sempre com foco em resultados.
+
+Minha atuação é marcada pela forte interface com áreas como TI, Analytics, Governança, LGPD, CX, Unidades de Negócio e Comercial, promovendo integração e alinhamento estratégico.
 </br>
 
 ## Tecnologias
